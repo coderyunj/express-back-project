@@ -32,10 +32,11 @@ form .form-group {
   justify-content: space-between;
 }
 form input {
-  width: 338px;
+  width: 318px;
   height: 40px;
   margin-left: 20px;
   border-radius: 12px;
+  padding: 0 10px;
 }
 form label {
   font-size: 24px;
